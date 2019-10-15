@@ -1,5 +1,15 @@
 package com.everis.model;
 
-public class Student {
+import lombok.Data;
 
+@Data
+public class Student {
+	
+	private String idStudent;
+	
+	private String name;
+	
+	private String lastname;
+	
+	
 }
