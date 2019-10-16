@@ -11,5 +11,7 @@ public class Student {
 	
 	private String lastname;
 	
+	private byte age;
+	
 	
 }
