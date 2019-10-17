@@ -8,4 +8,9 @@ public class StudentController {
 	public StudentController() {
 		//metodo controlador
 	};
+	
+	//aqui van los controladores
+	public void prueba() {
+		return;
+	}
 }
