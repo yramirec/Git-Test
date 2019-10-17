@@ -3,6 +3,6 @@
 Testing git functionalities
 
 ## Developers
-Yordan
-Alvaro
-Jeffrey
+* Yordan
+* Alvaro
+* Jeffrey
