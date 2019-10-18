@@ -4,7 +4,7 @@ public class classJeffrey3 {
 	
 	public void probar()
 	{
-		
+		System.out.println("Hola mundo");
 	}
 
 }
